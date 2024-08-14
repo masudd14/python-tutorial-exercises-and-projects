@@ -1,0 +1,153 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.first {
+	position: relative;
+}
+#wellcome {
+	position: sticky;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 50px;
+	background-color: #fff;
+	z-index: 1;
+	text-align: center;
+	font-size: 2rem;
+}
+
+header {
+	background-color: #020202;
+	color: #ffffff;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+    position: sticky;
+	top: 0;
+	left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+}
+
+nav ul li {
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.banner {
+	background-image: url('banner.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    background-color: lightgreen;
+	position: relative;
+}
+
+.banner h2 {
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+
+.banner p {
+	font-size: 24px;
+	margin-bottom: 20px;
+    color: black;
+    margin-top: 10px;
+}
+
+.btn {
+	background-color: #333;
+	color: #fff;
+    margin-top: 100px;
+}
+h1 {
+   text-transform: capitalize;
+   color: rgb(255, 255, 255);
+}
+h2 {
+    color: black;
+}
+.asb {
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    padding: 20px;
+    color: #020202;
+    background-color: #fff;
+	align-items: center;
+}
+body {
+    background-color: bisque;
+	background-image: url('https://www.wallpapertip.com/wmimgs/73-730157_edge-of-the-world-wallpaper.jpg');
+	background-attachment: fixed;
+}
+.products {
+    position: relative;
+    margin-top: 130px;
+}
+.btn {
+	border-top-left-radius: 35%;
+	border-bottom-left-radius: 35%;
+}
+.product p {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.btn {
+	padding: 10px;
+	text-decoration: none;
+}
+img {
+	margin-top: 40px;
+}
+p {
+	color: /** ask the color **/
+}
+footer {
+	display: flex;
+}
+footer a {
+	color: white;
+	text-decoration: none;
+	justify-content: flex-start;
+}
+.product a:hover {
+	background-color: red;
+}
+img:hover {
+	opacity: 50%;
+}
+.asb:hover {
+	box-sizing: border-box;
+	width: 130px;
+	background-color: red;
+
+}
