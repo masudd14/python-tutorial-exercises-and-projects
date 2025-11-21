@@ -18,5 +18,6 @@ for i in a:
             print(f"{''.join(c)}{b}")
             sleep(0.08)
             continue
-print(f'your password is {''.join(c)}')
+print(f"your password is {''.join(c)}")
+
 
