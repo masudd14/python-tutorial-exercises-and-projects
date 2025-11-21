@@ -55,12 +55,3 @@ This repository contains a structured collection of Python tutorials, exercises,
 
 ---
 
-## 🛠️ Simple Projects Included
-
-- Basic calculator  
-- To-Do list (CLI)  
-- Image converter (Pillow)  
-- PDF merger/splitter  
-- Web scraper (BeautifulSoup)  
-- Simple Tkinter GUI apps  
-
