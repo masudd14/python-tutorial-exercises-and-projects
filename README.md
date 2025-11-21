@@ -34,6 +34,8 @@ This repository contains a structured collection of Python tutorials, exercises,
 - `csv`  
 - `sqlite3` (beginner level)
 
+---
+
 ### External Libraries
 - **BeautifulSoup**  
 - **Pillow (PIL)**  
