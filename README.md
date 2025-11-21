@@ -55,6 +55,3 @@ This repository contains a structured collection of Python tutorials, exercises,
 - SQLite beginner tasks  
 - Debugging with `pdb`  
 - Performance measurement with `timeit`  
-
----
-
