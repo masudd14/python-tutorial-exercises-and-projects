@@ -2,6 +2,10 @@ from random import randint
 list=['   ','   ','   ']
 list2=['   ','   ','   ']
 list3=['   ','   ','   ']
+a=0
+b=0
+c=0
+d=0
 print('[0,1,2]\n[3,4,5]\n[6,7,8]')
 while True :
     def change():
